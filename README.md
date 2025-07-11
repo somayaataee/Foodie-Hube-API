@@ -15,7 +15,7 @@ Foodie Hub/
 ├── models/
 ├── controllers/
 ├── routes/
-├── foodiehub_schema.sql
+├── schema.sql
 └── README.md
 ```
 
@@ -26,7 +26,7 @@ Foodie Hub/
 - Manage **Restaurants**
 - Manage **Customers**
 - Manage **Menus**
-- Manage **Orders** and Order Items
+- Manage **Orders** 
 
 ---
 
