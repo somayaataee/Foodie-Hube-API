@@ -46,7 +46,7 @@ Foodie Hub/
 1. **Clone the project (if hosted on GitHub)**
 
    ```bash
-   git clone https://github.com/your-username/foodie-hub-api.git
+   git clone https://github.com/somayaataee/Foodie-Hube-API.git
    cd foodie-hub-api
    ```
 
@@ -73,7 +73,7 @@ Foodie Hub/
 
    - Open pgAdmin or your terminal
    - Create a new PostgreSQL database named `foodiehub`
-   - Run the SQL schema file: `foodiehub_schema.sql`
+   - Run the SQL schema file: `schema.sql`
 
 5. **Run the server**
 
